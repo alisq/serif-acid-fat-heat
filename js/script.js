@@ -852,7 +852,7 @@ let p = parameter
 
     entry = `
         <tr>
-            <td><h3>${Object.keys(p[i])[0]}</h3></td>
+            <td><h3>${Object.keys(p[i])[0]}: </h3></td>
             <td><select class='param'>${names}</select></td>
             <td class="desc"></td>
         </tr>
