@@ -159,21 +159,6 @@ parameter = [
        }
     ]},
     {
-    "keys":[  
-       "width",
-       "weight",
-       "construction",
-       "stroke endings",
-       "ascender",
-       "descender",
-       "contrast type",
-       "contrast amount",
-       "stems",
-       "application",
-       "size",
-       "special",
-       "also"
-    ]},{
     "stroke endings":[  
        {  
           "url":"parameters.html#strokeendings",
